@@ -1,4 +1,4 @@
-Scripts for figures plotting are provided in getplot2.R
+Scripts for figures plotting are provided in getplot2(1).R
 
 APSoil database are providedin in APSoil.soils.
 
